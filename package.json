@@ -1,0 +1,25 @@
+{
+  "name": "imooc-webapck-loader",
+  "version": "1.0.0",
+  "description": "make a loader",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjshinning/imooc-webapck-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjshinning/imooc-webapck-loader/issues"
+  },
+  "homepage": "https://github.com/cjshinning/imooc-webapck-loader#readme",
+  "devDependencies": {
+    "loader-utils": "^1.4.0",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
