@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/cjshinning/imooc-webapck-loader#readme",
   "devDependencies": {
-    "loader-utils": "^1.4.0",
-    "webpack": "^4.42.0",
-    "webpack-cli": "^3.3.11"
+    "loader-utils": "^3.2.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
